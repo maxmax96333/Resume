@@ -1,4 +1,5 @@
 # Резюме
+# Резюме
 
 **Возраст:** 32 года
 
@@ -11,7 +12,9 @@
 - С 2018 года занимаю должность юриста в нотариальной конторе.
 
 ## Планы
-- в данный момент являюсь студентом нетологии по программе "Тестировщик ПО", при успешном прохождении данного курса, планирую найти новоую работу в сфере it.
+- В данный момент являюсь студентом Нетологии по программе **"Тестировщик ПО"**.  
+  При успешном прохождении данного курса планирую найти новую работу в сфере IT.
 
 ## Фото
-![](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fwww.repsly.com%2Fhubfs%2F1._Stock_Photos%2FiStock_%2528DO_NOT_USE_AFTER_30_DAYS%2529%2FiStock-517877754-min.jpg&lr=213&pos=13&rpt=simage&text=%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%20%D0%B2%20%D0%BE%D1%84%D0%B8%D1%81%D0%B5%20%D1%88%D0%B5%20%D0%B1%D0%B5%D0%B7%20%D0%BE%D0%B8%D1%86%D0%B0)
+![Фото](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fwww.repsly.com%2Fhubfs%2F1._Stock_Photos%2FiStock_%2528DO_NOT_USE_AFTER_30_DAYS%2529%2FiStock-517877754-min.jpg&lr=213&pos=13&rpt=simage&text=%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%20%D0%B2%20%D0%BE%D1%84%D0%B8%D1%81%D0%B5%20%D1%88%D0%B5%20%D0%B1%D0%B5%D0%B7%20%D0%BE%D0%B8%D1%86%D0%B0)
+
